@@ -1,0 +1,25 @@
+.mdl-grid{
+
+}
+.mdl-card-wide{
+  width: 100%;
+  margin: 5 auto;
+}
+.mdl-card-wide > .mdl-card__title{
+  color: #fff;
+  height: 256px;
+  background-color: #eee;
+}
+.mdl-card{
+  margin: 5 auto;
+  max-width: 100%;
+}
+.mdl-card__title{
+  color: #fff;
+  height: 176px;
+  background-color: #eee;
+}
+
+.mdl-card__menu{
+  color: #fff;
+}
